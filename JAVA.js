@@ -21,7 +21,7 @@ else
 
     sessionStorage.setItem("user", user)
     sessionStorage.setItem("password", password)
-   window.location.href ="Login.html"
+   window.location.href ="index.html"
 
     console.log(user, password)
 
